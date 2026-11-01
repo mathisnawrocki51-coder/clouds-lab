@@ -1,0 +1,30 @@
+{
+  "phase": "2",
+  "environment": {
+    "colab": true
+  },
+  "attention": {
+    "naive_ms": 259.266,
+    "vectorized_ms": 17.006,
+    "speedup": 15.25
+  },
+  "threads": {
+    "1": 3216.418,
+    "2": 2159.808,
+    "4": 2272.336,
+    "8": 2311.32
+  },
+  "devices": {
+    "cpu_ms": 472540.7,
+    "gpu_ms": 13713.5
+  },
+  "training": {
+    "steps": 2000,
+    "final_loss": 1.4978,
+    "param_count": 4935680
+  },
+  "sample": "\nIn by doubt you thank pollok, grows.\n\nABHORSTALANUS:\nWhat, thou enemy, many dark't.\n\nMENENIUS:\n\ufffdone have read of him.\n\nMAGLO:\nYour bling powd:\nHe see muchation and by done him a good well,\nFor mean, w",
+  "model": {
+    "gcs_url": "https://storage.googleapis.com/eurecomgpt-mathis-eurecomgpt/model.safetensors"
+  }
+}
